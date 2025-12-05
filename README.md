@@ -93,27 +93,27 @@ O Jupyter Notebook inclui as seguintes visualizações para apoiar a análise:
 
 ### Por Segmento:
 
-** Cluster 0 - Jovens Gastadores (11%)**
+**Cluster 0 - Jovens Gastadores (11%)**
 * Oferecer opções de parcelamento facilitado
 * Implementar programa de pontos e cashback
 * Promoções frequentes e limitadas
 
-** Cluster 1 - Ricos Conservadores (17.5%)**
+**Cluster 1 - Ricos Conservadores (17.5%)**
 * Produtos premium com garantia estendida
 * Comunicação sobre durabilidade e valor de longo prazo
 * Serviços pós-venda diferenciados
 
-** Cluster 2 - Ricos Gastadores (19.5%)**  *Grupo Prioritário*
+**Cluster 2 - Ricos Gastadores (19.5%)**  *Grupo Prioritário*
 * Lançamentos exclusivos e pré-vendas VIP
 * Atendimento personalizado premium
 * Programa de fidelidade com benefícios exclusivos
 
-** Cluster 3 - Clientes Médios (40.5%)**
+**Cluster 3 - Clientes Médios (40.5%)**
 * Mix balanceado de produtos e preços
 * Promoções sazonais regulares
 * Cross-selling baseado em padrões
 
-** Cluster 4 - Clientes Frugais (11.5%)**
+**Cluster 4 - Clientes Frugais (11.5%)**
 * Campanhas agressivas de cupons e descontos
 * Produtos de entrada e promoções "combos"
 * Comunicação focada em economia
