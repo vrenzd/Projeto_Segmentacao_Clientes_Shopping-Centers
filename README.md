@@ -63,14 +63,21 @@ O Jupyter Notebook inclui as seguintes visualizações para apoiar a análise:
 4. **Dendrograma:** Um diagrama em árvore mostrando as relações taxonômicas dos clusters, validando a escolha de 5 clusters.
 
 ##  Como Executar
-1. Instale as dependências:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn mlxtend scipy
-   ```
-1. Execute o Jupyter Notebook:
-   ```bash
-   jupyter notebook seg_clientes_shopping_centers.ipynb
-   ```
+```
+# 1. Criar ambiente virtual
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# ou
+venv\Scripts\activate  # Windows
+```
+```
+# 2. Instalar TUDO com um comando
+pip install -r requirements.txt
+```
+```
+# 3. Executar o notebook
+jupyter notebook seg_clientes_shopping_centers.ipynb
+```
 
 ##  Estrutura do Projeto
 * `seg_clientes_shopping_centers.ipynb`: Notebook principal de análise.
