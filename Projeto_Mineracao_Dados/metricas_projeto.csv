@@ -1,0 +1,8 @@
+Metrica,Valor
+Total_Clientes,200
+Numero_Clusters,5
+Silhueta_KMeans,0.5595
+Silhueta_Hierarchical,0.5583
+Davies_Bouldin,0.5678
+Inercia,3.5831
+Total_Regras_Apriori,78

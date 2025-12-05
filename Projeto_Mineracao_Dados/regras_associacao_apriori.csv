@@ -1,0 +1,16 @@
+antecedents,consequents,support,confidence,lift
+Cluster_1,"Score_Baixo, Renda_Media",0.11,0.6285714285714287,5.465838509316771
+"Score_Baixo, Renda_Media",Cluster_1,0.11,0.9565217391304347,5.46583850931677
+"Adulto, Cluster_2","Score_Alto, Renda_Media",0.105,0.6774193548387096,5.2109181141439205
+"Score_Alto, Renda_Media","Adulto, Cluster_2",0.105,0.8076923076923076,5.21091811414392
+"Score_Alto, Renda_Media",Cluster_2,0.13,1.0,5.128205128205128
+"Adulto, Score_Alto, Renda_Media",Cluster_2,0.105,1.0,5.128205128205128
+Cluster_2,"Score_Alto, Renda_Media",0.13,0.6666666666666666,5.128205128205128
+"Renda_Media, Cluster_2","Adulto, Score_Alto",0.105,0.7499999999999999,4.411764705882352
+"Adulto, Score_Alto","Renda_Media, Cluster_2",0.105,0.6176470588235293,4.4117647058823515
+Cluster_2,"Adulto, Score_Alto",0.145,0.7435897435897435,4.374057315233785
+"Adulto, Score_Alto",Cluster_2,0.145,0.8529411764705881,4.3740573152337845
+"Adulto, Score_Baixo",Cluster_1,0.1,0.6896551724137931,3.9408866995073897
+"Renda_Media, Cluster_1",Score_Baixo,0.11,0.9166666666666667,3.666666666666667
+Score_Baixo,Cluster_1,0.16,0.64,3.6571428571428575
+Cluster_1,Score_Baixo,0.16,0.9142857142857144,3.6571428571428575
